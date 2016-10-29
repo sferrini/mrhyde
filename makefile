@@ -1,2 +1,2 @@
 compile:
-	g++ -Wall -o mrhyde mrhyde.cpp
+	gcc -Wall -o mrhyde mrhyde.c
